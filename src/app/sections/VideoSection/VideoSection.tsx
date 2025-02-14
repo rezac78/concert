@@ -7,6 +7,7 @@ export default function VideoSection() {
                                 muted
                                 playsInline
                                 className="absolute top-0 left-0 w-full h-full object-cover"
+                                poster="/home/homeBanner.avif"
                         >
                                 <source src="/home/video.mp4" type="video/mp4" />
                                 مرورگر شما از ویدیو پشتیبانی نمی‌کند.

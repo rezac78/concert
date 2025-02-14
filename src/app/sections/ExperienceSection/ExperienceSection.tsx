@@ -29,7 +29,7 @@ const ExperienceSection = () => {
                                 </div>
                                 <div className="w-full md:w-[600px] order-1 md:order-2">
                                         <Image
-                                                src="/home/experience.png"
+                                                src="/home/experience.avif"
                                                 alt="تجربه‌ای بی‌نظیر"
                                                 width={600}
                                                 height={400}

@@ -2,7 +2,7 @@ export default function FestivalSection() {
         return (
                 <div
                         className="relative w-full h-[450px] flex items-center justify-center text-center text-white bg-cover bg-center mt-1.5 px-4"
-                        style={{ backgroundImage: "url('/home/FestivalSection.jpeg')" }}
+                        style={{ backgroundImage: "url('/home/FestivalSection.avif')" }}
                 >
                         <div className="absolute inset-0 bg-black/30"></div>
                         <div className="relative z-10 bg-white/10 backdrop-blur-[22px] px-6 py-10 w-[1200px]">
