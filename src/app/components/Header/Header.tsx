@@ -22,7 +22,7 @@ export default function Header() {
                                         ))}
                                 </nav>
                                 <Link
-                                        href="#"
+                                        href="#buyTickets"
                                         className="hidden md:block bg-[#6200EE] px-4 py-2 rounded-lg text-white font-semibold  transition"
                                 >
                                         خرید بلیط کنسرت
@@ -37,7 +37,7 @@ export default function Header() {
                                                 <MenuItem key={item.id} {...item} />
                                         ))}
                                         <Link
-                                                href="/buy-ticket"
+                                                href="#buyTickets"
                                                 className="bg-[#6200EE] px-4 py-2 rounded-lg text-white text-[14px] hover:bg-purple-700 transition"
                                         >
                                                 خرید بلیط کنسرت
